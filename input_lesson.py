@@ -1,0 +1,6 @@
+name = input ("what is my name ")
+print (name)
+age = input ("what is my age ")
+print (age)
+sport = input ("what is my favorite ")
+print (sport)
