@@ -1,0 +1,5 @@
+name = input ("what is your name ")
+color = input ("what is your favorite color ")
+print ("Hello "+ name +" your favorite color is "+color)
+print ("what is your favorite football team")
+team = input ("your favorite football team is ")
